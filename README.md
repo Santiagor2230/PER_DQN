@@ -35,3 +35,7 @@ AdamW
 # Loss
 smooth L1 loss function
 
+# Video Results
+https://github.com/Santiagor2230/PER_DQN/assets/52907423/2ed793fe-8516-4ed1-8b9d-15a443736be2
+
+
